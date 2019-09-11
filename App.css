@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+.time{
+  font-size: 50px;
+  color: blue
+  
+}
+.teim{
+  font-size: 50px;
+  color: blue
+}
